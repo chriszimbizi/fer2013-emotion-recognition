@@ -1,5 +1,8 @@
 # Facial Emotion Recognition using Convolutional Neural Networks
 
+![image](https://github.com/user-attachments/assets/3aa8134b-95e3-4b3f-ab55-2ab4c6e2ff8b)
+
+
 ## Project Overview
 
 This project implements a deep learning model for facial emotion recognition using the FER2013 dataset, demonstrating advanced techniques in computer vision and machine learning.
